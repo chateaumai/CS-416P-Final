@@ -12,6 +12,7 @@ But to run the code I'm not sure how to do it without the projucer file, but the
 Above is the link to a demo of my plugin and i will share more thoughts below.
 
 I said it a bit already in my portfolio notes, but my inspiration for this was to create a VST that had the same vibe as those simple to use plugins that I see many people enjoy. One plugin in particular , "Sausage Fattener" is a plugin that has like 2 knobs and just makes the sound a lot more beefier. The ui as you increase the knob becomes a happy sausage to an angry one, and I wanted to see if I could emulate that in the code.
+![alt text](image-1.png)
 
 The UI didn't seem that hard to do, just based on some conditionals for where the current knob value is at. This ended up being what I needed to do, but actually painting my UI was a lot more trial and error based.
 
